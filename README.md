@@ -5,7 +5,7 @@ An application that can identify a file's type by analyzing its contents.
 This program requires Java to compile and run.
 
 ## Credits
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on File Type Analyzer project on JetBrains Academy.
 
